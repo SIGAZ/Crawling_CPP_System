@@ -18,3 +18,8 @@ C++로 웹페이지를 크롤링 하는 사이드 프로젝트
 - 그림과 영상도 크롤링하여 저장할 수 있는 프로그램으로 제작
 - 주기적으로 크롤링 하여 로그(txt)로 만들수 있는 기능 제작
 - 
+
+//관련 자료 레퍼런스
+https://stackoverflow.com/questions/4278024/very-simple-c-web-crawler-spider
+https://www.example-code.com/vcpp/spider_simpleCrawler.asp
+https://gist.github.com/berlinbrown/4583728
